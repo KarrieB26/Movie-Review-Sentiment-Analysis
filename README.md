@@ -1,4 +1,4 @@
-### Movie Review Sentiment Analysis
+# Movie Review Sentiment Analysis
 
 This project implements an automated sentiment classification pipeline to analyze IMDB movie reviews using **LSTM** and **Transformer** architectures. By leveraging pre-trained word embeddings like **GloVe** and **ConceptNet Numberbatch**, the system distinguishes between positive and negative viewer feedback to enable large-scale opinion mining for media platforms.
 
